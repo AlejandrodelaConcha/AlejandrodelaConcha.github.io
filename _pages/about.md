@@ -20,15 +20,10 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Alejandro de la Concha, a PhD researcher in Statistical Machine Learning at the École normale supérieure Paris-Saclay, under the supervision of Prof. Nicolas Vayatis and Argyris Kalogeratos. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My thesis focuses on developing graph-based machine learning techniques for analyzing data generated in complex systems such as transport systems, financial networks, sensor networks, to name a few. My work includes contributions to the subfields of 1) kernel methods and hypothesis testing. 2) density/likelihood-ratio estimation. 3) graph-signal processing. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Professionally, I have held positions in public and private institutions, where I have mainly focused on applying machine learning to risk management. I held a Research Data Scientist position at Financial Network Analytics ([FNA](https://fna.fi/)) and a Financial Risk Analyst position at the Central Bank of Mexico ([BANXICO](https://www.banxico.org.mx/indexen.html)) within the Directorate of Risk Management. 
