@@ -22,3 +22,8 @@ I am Alejandro de la Concha, a PhD researcher in Statistical Machine Learning at
 My thesis focuses on developing graph-based machine learning techniques for analyzing data generated in complex systems such as transport systems, financial networks, sensor networks, to name a few. My work includes contributions to the subfields of 1) kernel methods and hypothesis testing. 2) density/likelihood-ratio estimation. 3) graph-signal processing. 
 
 Professionally, I have held positions in public and private institutions, where I have mainly focused on applying machine learning to risk management. I held a Research Data Scientist position at Financial Network Analytics ([FNA](https://fna.fi/)) and a Financial Risk Analyst position at the Central Bank of Mexico ([BANXICO](https://www.banxico.org.mx/indexen.html)) within the Directorate of Risk Management. 
+
+##### **Research Interests:**
+• Kernel Methods • Non-Parametric Statistics • Time Series Analysis • Network Analysis • Federatad Learning <br>
+• Machine Learning • Risk Management.
+
