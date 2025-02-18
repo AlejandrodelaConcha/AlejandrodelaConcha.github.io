@@ -1,29 +1,23 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+cv_pdf: CV_English.pdf # you can also use external links here
 
 profile:
   align: right
   image: foto.jpg
-  image_circular: true # crops the image to make it circular
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Conctact: alejandro.d.delaconcha(at)gmail.com</p>
 ---
 
-I am Alejandro de la Concha, a PhD researcher in Statistical Machine Learning at the École normale supérieure Paris-Saclay, under the supervision of Prof. Nicolas Vayatis and Argyris Kalogeratos. 
+I am Alejandro de la Concha, a PhD researcher in Statistical Machine Learning at the École Normale Supérieure Paris-Saclay under the supervision of Prof. Nicolas Vayatis and Argyris Kalogeratos. 
 
-My thesis focuses on developing graph-based machine learning techniques for analyzing data generated in complex systems such as transport systems, financial networks, sensor networks, to name a few. My work includes contributions to the subfields of 1) kernel methods and hypothesis testing. 2) density/likelihood-ratio estimation. 3) graph-signal processing. 
+My thesis focuses on developing graph-based machine learning techniques for analyzing data generated in complex systems such as transport systems, financial networks, sensor networks, to name a few. My work includes contributions to the subfields of: 1) Kernel methods and hypothesis testing. 2) Density/likelihood-ratio estimation. 3) Graph-signal processing. 
 
 Professionally, I have held positions in public and private institutions, where I have mainly focused on applying machine learning to risk management. I held a Research Data Scientist position at Financial Network Analytics ([FNA](https://fna.fi/)) and a Financial Risk Analyst position at the Central Bank of Mexico ([BANXICO](https://www.banxico.org.mx/indexen.html)) within the Directorate of Risk Management. 
 
-##### **Research Interests:**
-• Kernel Methods • Non-Parametric Statistics • Time Series Analysis • Network Analysis • Federatad Learning <br>
-• Machine Learning • Risk Management.
 

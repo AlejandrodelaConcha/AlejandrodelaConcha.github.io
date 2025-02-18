@@ -1,0 +1,76 @@
+{  
+  "events":[
+    {
+      "nameevent": "The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)",
+      "date": "MAY-2024",
+      "url": "https://aistats.org/aistats2024/",
+      "title": "Online non-parametric likelihoo-ratio estimation by Pearson-divergence functional minimization (Poster)",
+      "location": "Valencia, Spain"
+    },
+    {
+      "nameevent": "Le Séminaire Palaisien",
+      "date": "APR-2023",
+      "url": "https://www.dataia.eu/evenements/le-seminaire-palaisien-alejandro-de-la-concha-azadeh-khalegh",
+      "title": "Collaborative likelihood-ratio estimation over graphs",
+      "location": "ENSAE, France"
+    },
+    {
+      "nameevent": "Séminaire Données et Aléatoire Théorie & Applications",
+      "date": "MAR-2023",
+      "url": "https://www-ljk.imag.fr/",
+      "title": "Collaborative likelihood-ratio estimation over graphs",
+      "location": "Laboratoire Jean Kuntzmann Grenoble, France"
+    },
+    {
+      "nameevent": "Paris-Saclay Change-Point Workshop",
+      "date": "JAN-2023",
+      "url": "https://parissaclaychangepoint.github.io/",
+      "title": "Online Centralized Non-parametric Change-point Detection via Graph-based Likelihood-ratio Estimation",
+      "location": "ENS Paris-Saclay, Gif-sur-Yvette, France"
+
+    }, 
+    {
+      "nameevent": "NeurIPS@Paris 2022",
+      "date": "NOV-2022",
+      "url": "https://scai.sorbonne-universite.fr/",
+      "title": "Collaborative likelihood-ratio estimation over graphs (Poster)",
+      "location": "Sorbonne Center for Artificial Intelligence (SCAI), Paris, France"
+    },
+    {
+      "nameevent": "FMI and Fintech: Oversight and Innovation in Payments and Settlements",
+      "date": "MAY-2021",
+      "url": "https://www.centralbanking.com/",
+      "title": "Suptech for FMIs: new opportunities and challenges",
+      "location": "Online, Cetral Banking"
+    }, 
+    {
+      "nameevent": "The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)",
+      "date": "APR-2021",
+      "url": "https://aistats.org/aistats2021/",
+      "title": "Offline detection of change-points in the mean for stationary graph signals (Poster)",
+      "location": "Online"
+    }, 
+    {
+      "nameevent": "French-German Summer-school with Industry on Machine Learning, AI Engineering AI for the Good.",
+      "date": "JUN-2020",
+      "url": "https://ens-paris-saclay.fr/actualite/digital-french-german-summerschool",
+      "title": "Offline detection of change-points in the mean for stationary graph signals (Poster)",
+      "location": "Online"
+    },
+    {
+      "nameevent": "The 6th International Conference on Complex Networks and Their Applications",
+      "date": "NOV-2017",
+      "url": "https://2017.complexnetworks.org/",
+      "title": "Multiplex financial networks: revealing the level of interconnectedness in the banking system (Poster)",
+      "location": "ENS de Lyon, Lyon, France"
+    },
+    {
+      "nameevent": "RiskLab/BoF/ESRB Conference on Systemic Risk Analytics",
+      "date": "JUN-2017",
+      "url": "https://risklab.fi/events/sra2017/",
+      "title": "Multiplex financial networks: revealing the level of interconnectedness in the banking system",
+      "location": "Helsinki, Finland"
+    }
+  ]
+}
+  

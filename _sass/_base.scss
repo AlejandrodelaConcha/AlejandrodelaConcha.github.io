@@ -19,6 +19,11 @@ strong {
   color: var(--global-text-color);
 }
 
+.section-title {
+  color: var(--global-theme-color);
+  margin: 20px 10px 10px 10px; /* Top Right Bottom Left */
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -168,18 +173,17 @@ ul.task-list input[type="checkbox"] {
 
 .card {
   background-color: var(--global-card-bg-color);
-
   .card-img {
     width: 100%;
-    padding-top: 1.25rem;
   }
 
   .card-title {
+
     color: var(--global-text-color);
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
   }
 }
 

@@ -24,13 +24,55 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Financial Network Analytics",
+      "position": "Research Data Scientist",
+      "startDate": "FEB-2020",
+      "endDate": "FEB-2022",
+      "highlights": ["Developed of machine learning algorithms for market and systemic risk management.","Designed models to enhance network analysis.","Built tools for natural language processing."],
+      "location": "London, UK"
+    },
+    {
+      "name": "École Normale Supérieure Paris-Saclay",
+      "position": "Master's Internship",
+      "startDate": "APR-2019",
+      "endDate": "SEP-2019",
+      "summary": "Thesis: Segmentation of multivariate signals observed over graphs",
+      "highlights": ["Reviewed the state of the art in change-point detection and graph-signal processing."],
+      "location": "Gif-sur-Yvette, France"
+    }, 
+    {
+      "name": "École Normale Supérieure Paris-Saclay",
+      "position": "Data Scientist (Master's Internship)",
+      "startDate": "APR-2018",
+      "endDate": "JUN-2019",
+      "summary": "Thesis: Tools from Network Theory applied to Systemic Risk",
+      "highlights": ["Developed graph-based machine learning techniques for market and systemic risk management."],
+      "location": "London, UK"
+    }, 
+    {
+      "name": "Central Bank of Mexico, Risk Management Directorate",
+      "position": "Risk Analyst",
+      "startDate": "APR-2016",
+      "endDate": "SEP-2017",
+      "highlights": ["Financial risk management for Mexico’s international reserve portfolio.","Conducted research on systemic risk in the Mexican banking system.","Performed actuarial analysis of the central bank’s private pension plan."],
+      "location": "Mexico City, Mexico"
+    }, 
+    {
+      "name": "Central Bank of Mexico, Risk Management Directorate",
+      "position": "Risk Analyst (Bacherlor's internship)",
+      "startDate": "OCT-2015",
+      "endDate": "MAR-2016",
+      "highlights": ["Created in-house computational tools for estimating the maximum limitation of liability of insurance contracts subscribed by BANXICO."],
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "name": "University of Toronto",
+      "position": "Research Internship",
+      "startDate": "JUN-2015",
+      "endDate": "SEP-2015",
+      "summary": "Insurance Loss modelling with Erlang-based Mixture Models",
+      "highlights": ["Conducted a literature review on copula modeling and mixture models applied to insurance."],
+      "location": "Toronto, Canada"
     }
   ],
   "volunteer": [
@@ -38,6 +80,7 @@
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
+      "location": "Gif-sur-Yvette, France",
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
