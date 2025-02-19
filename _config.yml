@@ -168,8 +168,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [de la Concha Duarte]
+  first_name: [Alejandro, D.]
 
   style: apa
   locale: en
