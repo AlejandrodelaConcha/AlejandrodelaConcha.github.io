@@ -28,7 +28,7 @@
       "position": "Research Data Scientist",
       "startDate": "FEB-2020",
       "endDate": "FEB-2022",
-      "highlights": ["Developed of machine learning algorithms for market and systemic risk management.","Designed models to enhance network analysis.","Built tools for natural language processing."],
+      "highlights": ["Developed machine learning algorithms for market and systemic risk management","Designed models to enhance network analysis","Built tools for natural language processing"],
       "location": "London, UK"
     },
     {
@@ -37,7 +37,7 @@
       "startDate": "APR-2019",
       "endDate": "SEP-2019",
       "summary": "Thesis: Segmentation of multivariate signals observed over graphs",
-      "highlights": ["Reviewed the state of the art in change-point detection and graph-signal processing."],
+      "highlights": ["Reviewed the state of the art in change-point detection and graph-signal processing"],
       "location": "Gif-sur-Yvette, France"
     }, 
     {
@@ -46,7 +46,7 @@
       "startDate": "APR-2018",
       "endDate": "JUN-2019",
       "summary": "Thesis: Tools from Network Theory applied to Systemic Risk",
-      "highlights": ["Developed graph-based machine learning techniques for market and systemic risk management."],
+      "highlights": ["Developed graph-based machine learning techniques for market and systemic risk management"],
       "location": "London, UK"
     }, 
     {
@@ -54,15 +54,15 @@
       "position": "Risk Analyst",
       "startDate": "APR-2016",
       "endDate": "SEP-2017",
-      "highlights": ["Financial risk management for Mexico’s international reserve portfolio.","Conducted research on systemic risk in the Mexican banking system.","Performed actuarial analysis of the central bank’s private pension plan."],
+      "highlights": ["Financial risk management for Mexico’s international reserve portfolio","Conducted research on systemic risk in the Mexican banking system","Performed actuarial analysis of the central bank’s private pension plan"],
       "location": "Mexico City, Mexico"
     }, 
     {
       "name": "Central Bank of Mexico, Risk Management Directorate",
-      "position": "Risk Analyst (Bacherlor's internship)",
+      "position": "Risk Analyst (Bacherlor's Internship)",
       "startDate": "OCT-2015",
       "endDate": "MAR-2016",
-      "highlights": ["Created in-house computational tools for estimating the maximum limitation of liability of insurance contracts subscribed by BANXICO."],
+      "highlights": ["Created in-house computational tools for estimating the maximum limitation of liability of insurance contracts subscribed by BANXICO"],
       "location": "Mexico City, Mexico"
     },
     {
@@ -71,7 +71,7 @@
       "startDate": "JUN-2015",
       "endDate": "SEP-2015",
       "summary": "Insurance Loss modelling with Erlang-based Mixture Models",
-      "highlights": ["Conducted a literature review on copula modeling and mixture models applied to insurance."],
+      "highlights": ["Conducted a literature review on copula modeling and mixture models applied to insurance"],
       "location": "Toronto, Canada"
     }
   ],
