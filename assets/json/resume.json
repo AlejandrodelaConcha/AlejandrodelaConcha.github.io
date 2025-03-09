@@ -44,7 +44,7 @@
       "name": "École Normale Supérieure Paris-Saclay",
       "position": "Data Scientist (Master's Internship)",
       "startDate": "APR-2018",
-      "endDate": "JUN-2019",
+      "endDate": "JUN-2018",
       "summary": "Thesis: Tools from Network Theory applied to Systemic Risk",
       "highlights": ["Developed graph-based machine learning techniques for market and systemic risk management"],
       "location": "London, UK"
@@ -102,7 +102,8 @@
       "area": "Master Year 2 Mathematics, Vision, Learning (MVA)",
       "studyType": "Msc in Applied Mathematics",
       "startDate": "  SEP-2018",
-      "endDate": "SEP-2019"
+      "endDate": "SEP-2019",
+      "detail": "GPA: 17/20"
     },
     {
       "institution": "Paris-Saclay University/ University of Évry Val d'Essonne",
@@ -110,7 +111,8 @@
       "area": "Master Year 1 Mathematics and applications",
       "studyType": "Msc in Applied Mathematics",
       "startDate": " AUG-2017",
-      "endDate": "AUG-2018"
+      "endDate": "AUG-2018",
+      "detail": "GPA: 17/20, Class rank: 1."
     },
     {
       "institution": "National Autonomous University of Mexico",
@@ -118,7 +120,8 @@
       "area": "Semester abroad at University of Rouen Normandy, France, SEP-2014 - JAN-2015",
       "studyType": "BSc in Actuarial Sciences",
       "startDate": "AUG-2011",
-      "endDate": "AUG-2015"
+      "endDate": "AUG-2015",
+      "detail": "GPA: 9.97/10, Class rank: 1."
     }
   ],
   "awards": [
