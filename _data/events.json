@@ -1,6 +1,13 @@
 {  
   "events":[
     {
+      "nameevent": "ELSA Workshop on Privacy-Preserving Machine Learning",
+      "date": "MAR-2025",
+      "url": "https://elsa-ai.eu/elsa-workshop-on-privacy-preserving-machine-learning/",
+      "title": "Collaborative non-parametric two-sample testing (Poster)",
+      "location": "Bertinoro University Center (CEUB), Italy"
+    },
+    {
       "nameevent": "The 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024)",
       "date": "MAY-2024",
       "url": "https://aistats.org/aistats2024/",
