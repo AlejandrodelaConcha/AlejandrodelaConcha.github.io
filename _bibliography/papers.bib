@@ -11,6 +11,7 @@
       booktitle={Paper under review},
       selected={true},
       preview={data_to_ratio.jpg},
+      code={https://github.com/AlejandrodelaConcha/Collaborative-Likelihood-Ratio-Estimation-over-Graphs},
       description={Assuming we have i.i.d observations from two unknown probability density functions (pdfs), $p$ and $q$, the density/likelihood-ratio estimation (LRE) is an elegant approach to compare the two pdfs only by relying on the available data. In this paper, we introduce the first — to the best of our knowledge — graph-based extension of this problem, which reads as follows: Suppose each node $v$ of a fixed graph has access to observations coming from two unknown node-specific pdfs, $p_v$ and $q_v$, and the goal is to estimate for each node the likelihood-ratio between both pdfs by also taking into account the information provided by the graph structure. The node-level estimation tasks are supposed to exhibit similarities conveyed by the graph, which suggests that the nodes could collaborate to solve them more efficiently. We develop this idea in a concrete non-parametric method that we call Graph-based Relative Unconstrained Least-squares Importance Fitting (GRULSIF). We derive convergence rates for our collaborative approach that highlights the role played by variables such as the number of available observations per node, the size of the graph, and how accurately the graph structure encodes the similarity between tasks. These theoretical results explicit the situations where collaborative estimation effectively leads to an improvement in performance compared to solving each problem independently.}
 }
 
@@ -23,6 +24,7 @@
       preview={test_PE.jpg},
       selected={true},
       arxiv={2402.05715},
+      code={https://github.com/AlejandrodelaConcha/Collaborative-Likelihood-Ratio-Estimation-over-Graphs},
       description ={Multiple two-sample test problem in a graph-structured setting is a common scenario in fields such as Spatial Statistics and Neuroscience. Each node $v$ in fixed graph deals with a two-sample testing problem between two node-specific probability density functions, $p_v$ and $q_v$. The goal is to identify nodes where the null hypothesis $p_v = q_v$ should be rejected, under the assumption that connected nodes would yield similar test outcomes. We propose the non-parametric collaborative two-sample testing (CTST) framework that efficiently leverages the graph structure and minimizes the assumptions over $p_v$ and $q_v$. CTST integrates elements from f-div estimation, Kernel Methods, and Multitask Learning.}
 }
 }
