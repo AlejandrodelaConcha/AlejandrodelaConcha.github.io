@@ -1,6 +1,13 @@
 {  
   "events":[
     {
+      "nameevent": "The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)",
+      "date": "MAY-2025",
+      "url": "https://aistats.org/aistats2025/index.html",
+      "title": "Collaborative non-parametric two-sample testing (Poster)",
+      "location": "Phuket, Thailand"
+    },
+    {
       "nameevent": "ELSA Workshop on Privacy-Preserving Machine Learning",
       "date": "MAR-2025",
       "url": "https://elsa-ai.eu/elsa-workshop-on-privacy-preserving-machine-learning/",
