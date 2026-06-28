@@ -24,6 +24,14 @@
   },
   "work": [
     {
+      "name": "University of Luxembourg",
+      "position": "Posdoctoral Researcher",
+      "startDate": "SEP-2025",
+      "endDate": "CURRENT",
+      "highlights": ["Research on privacy-preserving machine learning and federated learning"],
+      "location": "Luxembourg"
+    },
+    {
       "name": "Financial Network Analytics",
       "position": "Research Data Scientist",
       "startDate": "FEB-2020",
